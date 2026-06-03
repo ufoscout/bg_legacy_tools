@@ -1,0 +1,26 @@
+                           BGHack Bug Report Form
+
+Please fill in the following information which helps me to identify and solve
+the problem:
+
+1. What editor? What version is reported in Help About? What file version is reported by 
+   BGHack.exe properties?
+
+2. Bug description - what happens?
+
+3. What operation system are you running on
+   ( ) Windows 95
+   ( ) Windows 95 OSR 2
+   ( ) Windows 98
+   ( ) Windows NT 4.0
+    [ ] Service pack 1 installed
+    [ ] Service pack 2 installed
+    [ ] Service pack 3 installed
+    [ ] Service pack 4 installed
+   ( ) Windows NT 5.0
+    Specify build number:
+   ( ) Other
+    Specify other system:
+
+
+

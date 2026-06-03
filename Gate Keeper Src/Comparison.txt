@@ -1,0 +1,114 @@
+
+
+	<hr>
+	
+	<table border cellpadding=5>
+		<caption><font face="Arial" size="3" color="#21298D"><b>Feature Comparison<b></font></caption>
+		<font face="Arial" size="2">
+		<tr>
+			<td><b>Feature</b></td>
+			<td width="100" align=center><b>Gate Keeper</b><br>Version 1.05</td>
+			<td width="100" align=center><b>BG Edit</b><br>Version 1.3.5</td>
+		</tr>
+		<tr>
+			<td>Directly edit saved games</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit innate abilities</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit spells</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit saving throws</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit thief skills</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Add/Delete inventory items</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Handles dual class proficiencies</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit class</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit gender</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit attributes</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit gold</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit experience points</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit base hit points</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit alignment</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit race</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit weapon proficiencies</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Item moprhing</td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edits exported character files</td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit portrait gender</td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		<tr>
+			<td>Edit portrait race</td>
+			<td align=center valign=center><img src="x.gif" height=16 width=16></td>
+			<td align=center valign=center><img src="check.gif" height=16 width=16></td>
+		</tr>
+		</font>
+	</table>

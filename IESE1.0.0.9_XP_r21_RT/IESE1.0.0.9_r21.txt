@@ -1,0 +1,115 @@
+Infinity Engine Savegame Editor 
+
+Version 1.0.0.9 (r21) - 23/07/2006
+
+__________________________________________________
+
+Readme First:
+=============
+This software is a freeware and is provided as this. The author couldn't be taken responsible for the damage it can cause.
+
+
+Aim:
+====
+Allow savegame edition for Baldur's Gate 1 & 2 with their addons, Planescape Torment and Icewind Dale 1 with his addon.
+
+
+What's new (main changes):
+==========
+1.0.0.9 (r21):
+- Fix the problem of items being inserted from the item browser that were not droppable thereafter in the game.
+- Added a dialog to edit the item flags (droppable, magical, ...) for single item (rigt click on the inventory) or for all inventory items (from the Item menu)
+- Added flags insertion change accessible from the 'Item Insertion Options' dialog
+- Add a game configuration shortcut 'Configure game ...' and make the 'Run game ...' command launch the game directly for each game
+1.0.0.9 (r20):
+- Enable full override directory support: overrided files are now displayed on the browsers
+- Improved performance while using override directory
+- Fix a problem with the 'Add' function on the Advanced Functions Spell Dialog
+- Fix several problems of non displayed items/spells/icons
+- Added an option for using or discarding files in the override directory which are not referenced by the base game
+1.0.0.9 (r18):
+- Improved stability and unofficial mods support
+- Added capability to display and export all animation frames
+1.0.0.9 (r17):
+- Improved stability and unofficial mods support
+- Fixed an issue with the items and spells drag & drop: lists are now scrolling automatically to access non displayed slots
+1.0.0.9 (r16):
+- Added ability to display the first frame of the animations in the resource viewer
+- Characters Portraits are well display and changeable for PT too
+1.0.0.9 (r15):
+- Characters Portraits can now be changed or displayed by right cliking the character tree
+- Fixed a potential crash involving items/spells or creatures without name
+1.0.0.9 (r14):
+- Overriden items images are now correctly displayed in the inventory
+- Fixed a problem involving that some items/creatures or spells resource names were not displayed in the stats page
+1.0.0.9 (r10):
+- Fixed a crash after trying to open a savegame whereas the game choice dialog was displayed at startup
+1.0.0.9 (r9):
+- Added support for override directory (activation from Data pages in Settings)
+- Fixed a problem with the Save As dialog when game path was containing '-' character
+- Fixed a problem editing charges count of item having multiple abilities
+1.0.0.9 (r6):
+- Added ammo to favourite weapons list on the statistics page
+1.0.0.9 (r5):
+- Internal Portraits are now also correctly displayed for Baldur's Gate
+1.0.0.9 (r4):
+- Fixed a crash attempting to open an empty savegame
+- Some error message reviewed/added
+- Added ability to load custom game initialization file to support games installed over network
+1.0.0.9 (r3):
+- Explore & edit portrait now works fine under w9x
+- Portraits & images display improved
+1.0.0.9:
+- Improvement of the portraits browser: it's now faster. Filter of external portraits is definable
+	via options accessible in settings frame. Added contextual menus on the portraits tree
+- External portraits are now taken into account and displayed during the savegame edition
+1.0.0.8:
+- Bug removed: Sorting the item slots in the inventory now works fine
+1.0.0.7:
+- Bug removed: Spells icons will no more disappear after setting a spell filter
+1.0.0.6:
+- Bug removed: Saves not done after the first time, whereas you continued editing the same character, now works good
+- Interface spelling corrected
+1.0.0.5: 
+- Item Browser improvement: categories reviewed
+- PT savegames loading assertion removed	
+1.0.0.4: 
+- Fix problem with the resource browser
+
+
+Help:
+=====
+No help file is provided at this time.
+
+
+Tips:
+=====
+In the lists try to make a right click on the items or the first colum header to access other functionalities.
+Right click is also used in other controls as in the portrait browser.
+
+You can drag and drop items and spells from the browsers to the inventory or spell book 
+or between the inventories or spellbooks (after opening several savegames).
+
+You can't access main settings or change game choice without closing all documents.
+
+You can use the resource browser to export game data including portraits.
+
+In the proficiencies list (BG2), you can use '+' and respectively '-' keys to add and repectively remove 1 to the levels of the selected proficiencies. The 'DEL' key reset the level of the selected proficiencies. 
+These keys change to 1st class levels, to change the 2nd class levels, the SHIFT key must be pressed simultaneously. To change both class levels at the same time, the 'CTRL' key must be pressed.
+
+In the spell book (list of spells of the character), hiting 'CTRL' key while drag & dropping a spell from the spell brower or another spell book ADD the spell instead of REPLACING it in the case were the spell is dropped on a spell and not an empty area.
+
+In the spell book, you can easily filter the spells, by right-clicking on the spell level & spell type column headers.
+
+
+Bug report, remarks:
+====================
+You can send me remarks or bug reports to m.guill@free.fr
+
+
+Thanks:
+====================
+Special Thanks to the following people for their help in debugging:
+
+Vicki
+Matthijs de Smedt

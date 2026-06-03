@@ -1,0 +1,105 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BGEdit - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "E:\WINDOWS\TEMP\RSPC112.TMP" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/BGEdit.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\BGEdit\AppearanceDlg.cpp"
+"H:\BGEdit\BGEdit.cpp"
+"H:\BGEdit\BGEditDoc.cpp"
+"H:\BGEdit\BGEditView.cpp"
+"H:\BGEdit\ChangeNameDlg.cpp"
+"H:\BGEdit\CharacteristicsDlg.cpp"
+"H:\BGEdit\DualClassDlg.cpp"
+"H:\BGEdit\GameLocationDlg.cpp"
+"H:\BGEdit\ItemsDlg.cpp"
+"H:\BGEdit\LocationDlg.cpp"
+"H:\BGEdit\MagicDlg.cpp"
+"H:\BGEdit\MagicMemorizeDlg.cpp"
+"H:\BGEdit\MainFrm.cpp"
+"H:\BGEdit\MiscAbilitiesDlg.cpp"
+"H:\BGEdit\OpenCharacterDlg.cpp"
+"H:\BGEdit\OpenGameDlg.cpp"
+"H:\BGEdit\ProficienciesDlg.cpp"
+"H:\BGEdit\QuadButton.cpp"
+"H:\BGEdit\SavingThrowDlg.cpp"
+"H:\BGEdit\SpellsDlg.cpp"
+"H:\BGEdit\ThiefSkillsDlg.cpp"
+]
+Creating command line "cl.exe @E:\WINDOWS\TEMP\RSPC112.TMP" 
+Creating temporary file "E:\WINDOWS\TEMP\RSPC113.TMP" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/BGEdit.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\BGEdit\StdAfx.cpp"
+]
+Creating command line "cl.exe @E:\WINDOWS\TEMP\RSPC113.TMP" 
+Creating temporary file "E:\WINDOWS\TEMP\RSPC114.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/GateKeeper.pdb" /machine:I386 /out:"Release/GateKeeper.exe" 
+.\Release\AppearanceDlg.obj
+.\Release\BGEdit.obj
+.\Release\BGEditDoc.obj
+.\Release\BGEditView.obj
+.\Release\ChangeNameDlg.obj
+.\Release\CharacteristicsDlg.obj
+.\Release\DualClassDlg.obj
+.\Release\GameLocationDlg.obj
+.\Release\ItemsDlg.obj
+.\Release\LocationDlg.obj
+.\Release\MagicDlg.obj
+.\Release\MagicMemorizeDlg.obj
+.\Release\MainFrm.obj
+.\Release\MiscAbilitiesDlg.obj
+.\Release\OpenCharacterDlg.obj
+.\Release\OpenGameDlg.obj
+.\Release\ProficienciesDlg.obj
+.\Release\QuadButton.obj
+.\Release\SavingThrowDlg.obj
+.\Release\SpellsDlg.obj
+.\Release\StdAfx.obj
+.\Release\ThiefSkillsDlg.obj
+.\Release\BGEdit.res
+]
+Creating command line "link.exe @E:\WINDOWS\TEMP\RSPC114.TMP"
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+AppearanceDlg.cpp
+BGEdit.cpp
+BGEditDoc.cpp
+BGEditView.cpp
+ChangeNameDlg.cpp
+CharacteristicsDlg.cpp
+DualClassDlg.cpp
+GameLocationDlg.cpp
+ItemsDlg.cpp
+LocationDlg.cpp
+MagicDlg.cpp
+MagicMemorizeDlg.cpp
+MainFrm.cpp
+MiscAbilitiesDlg.cpp
+OpenCharacterDlg.cpp
+OpenGameDlg.cpp
+ProficienciesDlg.cpp
+QuadButton.cpp
+SavingThrowDlg.cpp
+SpellsDlg.cpp
+Generating Code...
+Compiling...
+ThiefSkillsDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+GateKeeper.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
