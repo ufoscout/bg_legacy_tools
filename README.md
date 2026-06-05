@@ -2,7 +2,8 @@
 
 This directory collects several savegame/character editors for games built on
 BioWare's Infinity Engine. Each folder contains one editor (`Gate Keeper Src` holds the source
-code for `Gate Keeper`).
+code for `Gate Keeper` and `ShadowKeeper Src` holds the source
+code for `ShadowKeeper`).
 
 ## Editors
 
